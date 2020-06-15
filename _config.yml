@@ -10,7 +10,7 @@ email: 943376962@qq.com
 github_repo: "https://github.com/yaxiaosheng27/yaxiaosheng27.github.io.git" # you code repository
 
 # Sidebar settings
-sidebar: ture                           # whether or not using Sidebar.
+sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "控制科学与工程专业"
 sidebar-avatar: /img/head.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
