@@ -11,7 +11,7 @@ github_repo: "https://github.com/yaxiaosheng27/yaxiaosheng27.github.io.git" # yo
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "控制科学与工程专业，研发了六自由度磁悬浮平面电机(https://v.douyin.com/JdPWeMn/)，参加过Robomaster等全国比赛，负责过国家级大创项目，拥有发明专利、中文核心期刊论文、EI论文，曾获第八届全国磁悬浮技术学术会议优秀论文奖。"
+sidebar-about-description: "深圳大学控制科学与工程专业，研发了六自由度磁悬浮平面电机(v.douyin.com/JdPWeMn/)，参加过Robomaster等全国比赛，负责过国家级大创项目，拥有发明专利、中文核心期刊论文、EI论文，曾获第八届全国磁悬浮技术学术会议优秀论文奖。"
 sidebar-avatar: /img/head.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
